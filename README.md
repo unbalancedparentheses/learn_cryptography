@@ -21,3 +21,12 @@
 - [Quadratic Arithmetic Programs: from Zero to Hero - Vitalik Buterin](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
 - [Exploring Elliptic Curve Pairings - Vitalik Buterin](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627)
 - [zk-SNARKs: Under the Hood - Vitalik Buterin](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
+
+## STARKs
+- [STARKs, Part I: Proofs with Polynomials - Vitalik Buterin](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
+- [STARKs, Part II: Thank Goodness It's FRI-day - Vitalik Buterin](https://vitalik.ca/general/2017/11/22/starks_part_2.html)
+- [STARKs, Part 3: Into the Weeds - Vitalik Buterin](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
+
+## Abstract Algebra
+- [Algebra - Serge Lang](https://www.wiley.com/en-au/Abstract+Algebra,+3rd+Edition-p-9780471433347)
+- [Abstract Algebra - Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
