@@ -15,6 +15,9 @@
 
 ## CTF
 - [Cryptohack](https://cryptohack.org/courses/)
+- [Cryptopals](https://cryptopals.com)
+- [Krypton](https://overthewire.org/wargames/krypton/)
+- [Cryptanalysis](https://www.root-me.org/en/Challenges/Cryptanalysis/)
 
 ## Others
 - [Crypto Screencasts - David Wong](https://www.youtube.com/playlist?list=PLBJMt6zV1c7FN3IjBDr9lydgqGzh_SqHV)
@@ -35,4 +38,5 @@
 
 ## Abstract Algebra
 - [Algebra - Serge Lang](https://www.wiley.com/en-au/Abstract+Algebra,+3rd+Edition-p-9780471433347)
-- [Abstract Algebra - Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+- [Abstract Algebra - Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)\
+- [Abstract (Modern) Algebra - Bill Kinney](https://www.youtube.com/playlist?list=PLmU0FIlJY-Mn3Pt-r5zQ_-Ar8mAnBZTf2)
