@@ -22,6 +22,7 @@
 - [The Basics of Pairings - Dan Boneh](https://www.youtube.com/watch?v=F4x2kQTKYFY)
 
 ## CTF
+- [CTF Cryptography for Beginners](https://charcharbinks.com/post/ctf_crypto_for_beginners/)
 - [Cryptohack](https://cryptohack.org/courses/)
 - [Cryptopals](https://cryptopals.com)
 - [Krypton](https://overthewire.org/wargames/krypton/)
