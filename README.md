@@ -1,6 +1,7 @@
 # Learn Crytography
 
 ## Books
+- [Real World Cryptography](https://www.manning.com/books/real-world-cryptography?a_aid=Realworldcrypto&a_bid=ad500e09)
 - [Programming Bitcoin - Jimmy Song](https://www.oreilly.com/library/view/programming-bitcoin/9781492031482/)
 
 ## Elliptic Curves
@@ -12,3 +13,11 @@
 
 ## CTF
 - [Cryptohack](https://cryptohack.org/courses/)
+
+## zk-SNARK
+- [Why and How zk-SNARK works - Maksym Petkus](https://arxiv.org/pdf/1906.07221.pdf)
+- [zkSNARKs in a nutshell - Christian Reitwiessner](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/)
+- [An approximate introduction to how zk-SNARKs are possible - Vitalik Buterin](https://vitalik.ca/general/2021/01/26/snarks.html)
+- [Quadratic Arithmetic Programs: from Zero to Hero - Vitalik Buterin](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
+- [Exploring Elliptic Curve Pairings - Vitalik Buterin](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627)
+- [zk-SNARKs: Under the Hood - Vitalik Buterin](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
