@@ -6,6 +6,8 @@
 
 ## Elliptic Curves
 - [Elliptic Curve cryptography explained](https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/)
+- [Elliptic curves - Trustica](https://trustica.cz/en/category/ecc/page/3/)
+- [Ellitpic curves in simple Weierstrass form - Trustica](https://www.youtube.com/playlist?list=PLN9KZDpNfsHMd7d7PX87JGesGY_Qzyb3V)
 
 ## Pairings
 - [Pairings for beginners - Craig Costello](https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff394720493bd28278889c6/1609798774687/PairingsForBeginners.pdf)
@@ -14,6 +16,9 @@
 ## CTF
 - [Cryptohack](https://cryptohack.org/courses/)
 
+## Others
+- [Crypto Screencasts - David Wong](https://www.youtube.com/playlist?list=PLBJMt6zV1c7FN3IjBDr9lydgqGzh_SqHV)
+
 ## zk-SNARK
 - [Why and How zk-SNARK works - Maksym Petkus](https://arxiv.org/pdf/1906.07221.pdf)
 - [zkSNARKs in a nutshell - Christian Reitwiessner](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/)
@@ -21,6 +26,7 @@
 - [Quadratic Arithmetic Programs: from Zero to Hero - Vitalik Buterin](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
 - [Exploring Elliptic Curve Pairings - Vitalik Buterin](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627)
 - [zk-SNARKs: Under the Hood - Vitalik Buterin](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
+- [The Mathematics behind zkSNARKS - Mirco Richter](https://youtu.be/iRQw2RpQAVc)
 
 ## STARKs
 - [STARKs, Part I: Proofs with Polynomials - Vitalik Buterin](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
